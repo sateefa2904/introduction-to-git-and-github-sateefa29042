@@ -1,0 +1,1 @@
+Linux Kernel Version: 6.5.0-1022-azure
